@@ -1,2 +1,2 @@
 # IT
-Internet Tehnologii
+Internet Tehnologii zadaci i slicno.
